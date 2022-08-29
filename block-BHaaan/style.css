@@ -190,8 +190,8 @@ h3 {
 }
 
 article {
-    padding-left: 30rem;
-    padding-right: 30rem;
+    margin: auto;
+    width: 600px;
 }
 
 img {
